@@ -1,5 +1,6 @@
 package com.security.securityJWT.persistence.entity;
 
+
 import jakarta.persistence.*;
 import lombok.*;
 
